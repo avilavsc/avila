@@ -4,8 +4,6 @@ date: 2026-11-24
 draft: false
 tags: ['idempotencia', 'fundamentos']
 featureimage: 'featured.png'
-showHero: true
-heroStyle: 'big'
 ---
 
 Olha, é muito importante que tu faça as tuas regras de negócio idempotentes. Pelo menos as críticas.
