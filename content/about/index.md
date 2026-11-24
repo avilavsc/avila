@@ -8,3 +8,5 @@ Claudionir de Avila Vasconcelos Junior.
 
 Analista de TI · Engenheiro de Software  
 Professor e palestrante.
+
+Gente boa.
