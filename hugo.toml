@@ -1,0 +1,34 @@
+baseURL = 'https://example.org/'
+locale = 'pt-br'
+title = 'Avila'
+
+theme = 'blowfish'
+
+[params]
+  colorScheme = 'blowfish'
+  defaultAppearance = 'auto'
+  enableSearch = true
+
+
+[params.homepage]
+  layout = 'profile'
+  showRecent = true
+
+[params.author]
+  name = 'Avila'
+  image = 'img/author.jpg'
+  headline = 'Software, Pessoas e IA'
+    links = [
+    { linkedin = 'https://www.linkedin.com/in/avila-vasconcelos/' },
+  ]
+
+[menu]
+  [[menu.main]]
+    name = 'Blog'
+    pageRef = '/'
+    weight = 10
+
+  [[menu.main]]
+    name = 'Sobre'
+    pageRef = '/about'
+    weight = 20
