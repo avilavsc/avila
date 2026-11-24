@@ -23,6 +23,9 @@ theme = 'blowfish'
     { linkedin = 'https://www.linkedin.com/in/avila-vasconcelos/' },
   ]
 
+[params.footer]
+  showThemeAttribution = false
+
 [menu]
   [[menu.main]]
     name = 'Blog'
